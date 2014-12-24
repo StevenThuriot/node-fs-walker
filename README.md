@@ -136,7 +136,7 @@ var filter = {
 };
 ```
 
-This filter will filter only return files that end in `.js` and will not be looking in the `node_modules` folder while walking the file-system.
+This filter will make it so that only files are returned that end in `.js` and will not be looking in the `node_modules` folder while walking the file-system.
 
 It is possible to omit the `file`, `directory` or both filters, e.g.:
 
