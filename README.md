@@ -13,13 +13,13 @@ The walker will always respond with an [`fs_stats`](http://nodejs.org/api/fs.htm
 Install using npm:
 
 ```
-npm install --save node-fs-walker
+npm install --save fs-walker
 ```
 
 Then require:
 
 ```javascript
-var walk = require('node-fs-walker');
+var walk = require('fs-walker');
 ```
 
 
@@ -54,7 +54,7 @@ The following samples all use this setup:
 
 ```javascript
 var dir = process.cwd(),
-    walk = require('node-fs-walker');
+    walk = require('fs-walker');
 ```
 
 ##Async

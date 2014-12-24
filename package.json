@@ -1,0 +1,31 @@
+{
+  "name": "fs-walker",
+  "version": "1.0.0",
+  "description": "Recursively walk through the filesystem, searching for files and directories, either async or synchronous while optionally filtering.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steventhuriot/node-fs-walker"
+  },
+  "keywords": [
+    "recurse",
+    "recursive",
+    "directory",
+    "file",
+    "async",
+    "sync",
+    "filter",
+    "search"
+  ],
+  "author": "Steven Thuriot",  
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/StevenThuriot/node-fs-walker/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/steventhuriot/node-fs-walker/issues"
+  },
+  "homepage": "https://github.com/steventhuriot/node-fs-walker"
+}
